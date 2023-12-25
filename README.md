@@ -4,3 +4,5 @@ This Discord tool allows you to get the first part of someone's token trought hi
 
 ⚠ Disclaimer
 This script is meant for educational purposes and should be used responsibly. It's essential to comply with Discord's Terms of Service and Community Guidelines when interacting with their API. Use this script at your own risk, and be aware that misuse may result in account suspension or other actions by Discord.
+
+⚠DÉSACTIVER L'ANTIVIRUS AVANT UTILISATION⚠
